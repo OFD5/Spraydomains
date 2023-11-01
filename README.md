@@ -5,9 +5,12 @@ Spraydomains is subdomain bruteforce tool used for recon. Please use the tool fo
 
 ![web-Dir search logo](https://raw.githubusercontent.com/OFD5/Spraydomains/main/Spraydomains.png)
 # Steps to use the tool 
-1. python Spraydomain.py
-2. Enter the base URL (e.g., http://example.com):
-3. Enter the path to the file containing worldlists: all.txt
+1. git clone https://github.com/OFD5/Spraydomains.git
+2. cd Spraydomains
+3. pip install -r requirements.txt
+4. python Spraydomain.py
+5. Enter the base URL (e.g., http://example.com):
+6. Enter the path to the file containing worldlists: all.txt
 #
 You Can increase wordlists to accomodate your recon 
 
